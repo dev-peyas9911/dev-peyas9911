@@ -76,7 +76,7 @@ I'm a full-stack developer focusing on the MERN stack (MongoDB, Express, React, 
 ---
 
 ### 1) Real Estate Client (example)
-**Repository:** [`PeyasBarmon/real-estate-mern`](https://github.com/dev-peyas9911/real-estate-client)  
+**Repository:** [`PeyasBarmon/real-estate-client`](https://github.com/dev-peyas9911/real-estate-client)  
 **Live:** `https://unrivaled-sprite-bd6809.netlify.app/`  
 **Tech:** MongoDB • Express • React • Node.js • TailwindCSS
 
@@ -95,7 +95,7 @@ A full-stack real estate marketplace where users can browse listings, search by 
 - Frontend: react, react-router, axios, tailwindcss
 
 ### 2) Pet Care Services (example)
-**Repository:** [`PeyasBarmon/real-estate-mern`](https://github.com/dev-peyas9911/pet-care-project)  
+**Repository:** [`PeyasBarmon/pet-care-project`](https://github.com/dev-peyas9911/pet-care-project)  
 **Live:** `https://inquisitive-lebkuchen-0237a1.netlify.app/`  
 **Tech:** MongoDB • Express • React • Node.js • TailwindCSS
 
@@ -114,7 +114,7 @@ A full-stack real estate marketplace where users can browse listings, search by 
 - Frontend: react, react-router, axios, tailwindcss
 
 ### 3) Hero App Store (example)
-**Repository:** [`PeyasBarmon/real-estate-mern`](https://github.com/dev-peyas9911/hero-app-store)  
+**Repository:** [`PeyasBarmon/hero-app-store`](https://github.com/dev-peyas9911/hero-app-store)  
 **Tech:** MongoDB • Express • React • Node.js • TailwindCSS
 
 **Short description:**  
