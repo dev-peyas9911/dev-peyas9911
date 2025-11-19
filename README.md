@@ -1,16 +1,99 @@
-## Hi there 👋
+<!-- Custom Banner -->
 
-<!--
-**dev-peyas9911/dev-peyas9911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://i.ibb.co.com/bR2WtY4c/Chat-GPT-Image-Nov-19-2025-01-36-10-PM.png" alt="banner" />
+</p>
 
-Here are some ideas to get you started:
+# Hi there, I'm **Peyas Barmon**! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+✨ *Full‑Stack MERN Developer | Problem Solver | Clean Code Enthusiast* ✨
+
+</div>
+
+---
+
+## 🎇 Animated Introduction
+
+```javascript
+const developer = {
+  name: "Peyas Barmon",
+  role: "Full‑Stack MERN Developer",
+  skills: ["HTML", "CSS", "JavaScript", "React", "Node.js", "Express", "MongoDB", "Tailwind"]
+};
+
+console.log(`Welcome to ${developer.name}'s GitHub Profile 🚀`);
+```
+
+---
+
+## 📈 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=PeyasBarmon&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+## 🚀 About Me
+
+I'm a **Full-Stack MERN Developer** passionate about creating modern, responsive, and user-friendly digital experiences.
+
+* 🌱 Currently learning **Advanced React**, **Backend Architecture**, and **Deployments**.
+* 🚀 I enjoy building real-world full-stack projects.
+* 🎯 Goal: Become a strong full-stack engineer & contribute to open-source.
+
+---
+
+## 🧰 Skills & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🔹 **Real Estate Web Application (MERN)**
+
+A full-stack property listing app with authentication, CRUD, and dashboard.
+
+### 🔹 **Task Manager App**
+
+A clean and responsive task management application using React + Node.
+
+### 🔹 **Portfolio Website**
+
+A modern portfolio built with animations & TailwindCSS.
+
+> *(Give me your repo links and I'll add them here!)*
+
+---
+
+## 🔥 GitHub Stats & Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PeyasBarmon&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PeyasBarmon&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeyasBarmon&layout=compact" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+* ✉ Email: **[dev.peyasbarmon0024@gmail.com](mailto:dev.peyasbarmon0024@gmail.com)**
+* 🌍 Portfolio: *(Add your link)*
+* 🔗 LinkedIn: *(Add your link)*
+
+---
+
+⭐ *Thanks for visiting! Feel free to explore and star my repositories!* ⭐
