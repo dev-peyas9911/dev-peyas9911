@@ -1,7 +1,7 @@
 <!-- Custom Banner -->
 
 <p align="center">
-  <img src="https://i.ibb.co.com/bR2WtY4c/Chat-GPT-Image-Nov-19-2025-01-36-10-PM.png" alt="banner" />
+  <img src="https://i.ibb.co.com/B5cn1259/Chat-GPT-Image-Nov-19-2025-01-36-10-PM-1.png" alt="banner" />
 </p>
 
 # Hi there, I'm **Peyas Barmon**! 👋
