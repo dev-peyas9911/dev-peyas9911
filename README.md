@@ -1,11 +1,11 @@
 <!-- Banner (local file: will be transformed to a URL by your tool) -->
 <p align="center">
-  <img src="https://i.ibb.co.com/B5cn1259/Chat-GPT-Image-Nov-19-2025-01-36-10-PM-1.png" alt="Peyas Barmon - MERN Stack Developer Banner" width="100%" />
+  <img src="https://i.ibb.co.com/B5cn1259/Chat-GPT-Image-Nov-19-2025-01-36-10-PM-1.png" alt="Peyas Barmon - MERN Stack Developer Banner"  width="100%" height="100%" />
 </p>
 
 <!-- Profile header -->
 <div align="center">
-  <img src="https://avatars.dicebear.com/api/initials/Peyas%20Barmon.svg" alt="Peyas Barmon" width="140" style="border-radius: 12px;" />
+  <img src="https://i.ibb.co.com/gbWznyHZ/avater.png" alt="Peyas Barmon" width="140" height="140" style="border-radius: 12px;" />
 
   <h1 align="center">Peyas Barmon</h1>
   <h3 align="center">MERN Stack Developer</h3>
@@ -40,13 +40,13 @@ I'm a full-stack developer focusing on the MERN stack (MongoDB, Express, React, 
 
 ## 🔗 Connect
 <p>
-  <a href="https://github.com/PeyasBarmon" target="_blank">GitHub</a> •
+  <a href="https://github.com/dev-peyas9911" target="_blank">GitHub</a> •
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a> •
   <a href="https://your-portfolio.example.com" target="_blank">Portfolio</a> •
   <a href="mailto:dev.peyasbarmon0024@gmail.com">Email</a>
 </p>
 
-> Replace placeholders (`your-linkedin`, `your-portfolio.example.com`) with your real links.
+
 
 ---
 
@@ -71,13 +71,50 @@ I'm a full-stack developer focusing on the MERN stack (MongoDB, Express, React, 
 
 ## 📌 Pinned Repositories
 
-> Below are three featured repos. Replace the `LIVE LINK` and `REPO LINK` placeholders with your actual URLs. Each repo includes a short README overview below.
+
 
 ---
 
-### 1) Real Estate MERN (example)
-**Repository:** [`PeyasBarmon/real-estate-mern`](https://github.com/PeyasBarmon/real-estate-mern)  
-**Live:** `https://real-estate.example.com` *(replace with your live link)*  
+### 1) Real Estate Client (example)
+**Repository:** [`PeyasBarmon/real-estate-mern`](https://github.com/dev-peyas9911/real-estate-client)  
+**Live:** `https://unrivaled-sprite-bd6809.netlify.app/`  
+**Tech:** MongoDB • Express • React • Node.js • TailwindCSS
+
+**Short description:**  
+A full-stack real estate marketplace where users can browse listings, search by filters, and authenticated users can add/edit properties in a dashboard.
+
+**Main features**
+- User authentication (JWT)
+- Property CRUD (create, read, update, delete)
+- Search & filters (location, price, category)
+- User dashboard (manage listings)
+- Responsive UI with TailwindCSS
+
+**Dependencies (high level)**
+- Backend: express, mongoose, jsonwebtoken, bcrypt
+- Frontend: react, react-router, axios, tailwindcss
+
+### 2) Pet Care Services (example)
+**Repository:** [`PeyasBarmon/real-estate-mern`](https://github.com/dev-peyas9911/pet-care-project)  
+**Live:** `https://inquisitive-lebkuchen-0237a1.netlify.app/`  
+**Tech:** MongoDB • Express • React • Node.js • TailwindCSS
+
+**Short description:**  
+A full-stack real estate marketplace where users can browse listings, search by filters, and authenticated users can add/edit properties in a dashboard.
+
+**Main features**
+- User authentication (JWT)
+- Property CRUD (create, read, update, delete)
+- Search & filters (location, price, category)
+- User dashboard (manage listings)
+- Responsive UI with TailwindCSS
+
+**Dependencies (high level)**
+- Backend: express, mongoose, jsonwebtoken, bcrypt
+- Frontend: react, react-router, axios, tailwindcss
+
+### 3) Hero App Store (example)
+**Repository:** [`PeyasBarmon/real-estate-mern`](https://github.com/dev-peyas9911/hero-app-store)  
 **Tech:** MongoDB • Express • React • Node.js • TailwindCSS
 
 **Short description:**  
