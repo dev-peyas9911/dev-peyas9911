@@ -28,11 +28,7 @@ console.log(`Welcome to ${developer.name}'s GitHub Profile 🚀`);
 
 ---
 
-## 📈 Profile Views
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=PeyasBarmon&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 ---
 
@@ -95,5 +91,11 @@ A modern portfolio built with animations & TailwindCSS.
 * 🔗 LinkedIn: *(Add your link)*
 
 ---
+
+## 📈 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=PeyasBarmon&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ⭐ *Thanks for visiting! Feel free to explore and star my repositories!* ⭐
