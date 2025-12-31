@@ -50,22 +50,14 @@ I'm a full-stack developer focusing on the MERN stack (MongoDB, Express, React, 
 
 ---
 
-## 📊 GitHub Stats & Contribution Highlights
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PeyasBarmon&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+## 📊 Git Stats & Contribution Highlights
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PeyasBarmon&theme=dark" alt="GitHub Streak" />
-</p>
+- 500+ commits across multiple repositories
+- Consistent contributor with regular activity
+- Experienced in branching, merging, and conflict resolution
+- Built and maintained full-stack web applications
+- Worked with pull requests, code reviews, and deployments
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PeyasBarmon&show_icons=true&theme=dark" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeyasBarmon&layout=compact&theme=dark" alt="Top languages" />
-</p>
 
 ---
 
